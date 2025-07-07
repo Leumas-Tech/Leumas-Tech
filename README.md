@@ -19,7 +19,7 @@ All my projects live in one place: [Leumas Library](https://leumas.tech/leumas-l
 
 - 🌐 Home: https://leumas.tech  
 - 💼 LinkedIn: [in/wbermudez](https://linkedin.com/in/wbermudez)  
-- 📧 Email: william@leumas.tech  
+- 📧 Email: aurorusx@gmail.com
 
 
 
