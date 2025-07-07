@@ -18,7 +18,7 @@ All my projects live in one place: [Leumas Library](https://leumas.tech/leumas-l
 ### 🔗 Connect
 
 - 🌐 Home: https://leumas.tech  
-- 💼 LinkedIn: [in/wbermudez](https://linkedin.com/in/wbermudez)  
+- 💼 LinkedIn: https://www.linkedin.com/in/william-bermudez-15845021a/
 - 📧 Email: aurorusx@gmail.com
 
 
