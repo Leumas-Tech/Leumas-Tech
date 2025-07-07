@@ -1,5 +1,26 @@
-# 💫 About Me:
-I am a Mern Stack, Web 3.0, and Arduino developer, who loves pokemon! My friendlys frequently call me a mad scientist, and I wouldn't have it any other way. Currently working on a variety of projects which can be found on my home page at https://leumas.tech/leumas-library
+# 💫 About Me
+
+I’m **William Bermudez**, founder of [Leumas Technologies](https://leumas.tech) — a startup on a mission to empower developers with modular, reusable tools and frameworks. By day I build RESTful APIs, 3D programming utilities, and AI-driven automations; by night I’m tinkering with Arduino circuits or chasing rare Pokémon. My friends call me a *mad scientist* — and I wear that title proudly!
+
+---
+
+### 🚀 What I Do
+
+- **MERN & Web 3.0:** Architecting full-stack applications and smart contracts that scale.  
+- **Imperium Framework:** A dynamic platform that tailors its UI and microservices to each user’s needs, powering everything from 3D workflow builders to programmable wake-words.  
+- **Leumas API & Library:** A suite of versioned adapters, pipelines, and SDKs for AI integrations, data embeddings, and seamless cross-app functionality.  
+- **Hardware Hacking:** Prototyping CNC PCB plotters, ESP-based I/O belts, and voice-transform effects on Arduino.  
+
+All my projects live in one place: [Leumas Library](https://leumas.tech/leumas-library). Whether you need a drop-in API, a custom CLI, or a proof-of-concept for your next big idea, I’ve got you covered.
+
+---
+
+### 🔗 Connect
+
+- 🌐 Home: https://leumas.tech  
+- 💼 LinkedIn: [in/wbermudez](https://linkedin.com/in/wbermudez)  
+- 📧 Email: william@leumas.tech  
+
 
 
 # 💻 Tech Stack:
